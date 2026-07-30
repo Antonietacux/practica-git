@@ -1,3 +1,3 @@
 # practica-git
-"Hola mundo, como estas"
+"HOLA COMALAPA"
 
